@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am btech 2 year student studing AIML
+I am a second-year B.Tech student specializing in AIML,
+I am currently learning Scikit-learn.
 
 
 ## 🌐 Socials:
