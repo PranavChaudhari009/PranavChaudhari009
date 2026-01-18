@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year B.Tech student specializing in AIML<br>currently learning Scikit-learn.<br><br>I love Games 
+I am a second-year B.Tech student specializing in AIML<br>currently learning Scikit-learn.<br><br>
 
 
 ## 🌐 Socials:
