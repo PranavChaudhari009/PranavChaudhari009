@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd-year B.Tech AIML student 🤖 | Python, Java & SQL enthusiast. Currently building intelligent systems and exploring the world of data science.
+2nd-year B.Tech AIML student 🤖 | Python, Java & ML enthusiast. Currently building intelligent systems and exploring the world of data science.
 
 
 ## 🌐 Socials:
