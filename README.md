@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year B.Tech student specializing in AIML<br>currently learning Scikit-learn.<br><br>
+2nd-year B.Tech AIML student 🤖 | Python, Java & SQL enthusiast. Currently building intelligent systems and exploring the world of data science.
 
 
 ## 🌐 Socials:
