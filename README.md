@@ -1,37 +1,9 @@
 <!-- Retro Terminal Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=100&lines=██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗;██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║;██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║;██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝;██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝;╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝" />
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=PRANAV+CHAUDHARI)
 
-<br/>
-
-<!-- Glowing animated name using SVG -->
-<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <animate/>
-  </defs>
-  <text x="50%" y="75" text-anchor="middle"
-    font-family="Courier New, monospace"
-    font-size="72" font-weight="bold"
-    fill="#00FF41" filter="url(#glow)"
-    opacity="1">
-    PRANAV
-    <animate attributeName="opacity"
-      values="1;0.4;1;0.7;1;0.5;1"
-      dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="fill"
-      values="#00FF41;#00CC33;#00FF41;#39FF14;#00FF41"
-      dur="2s" repeatCount="indefinite"/>
-  </text>
-</svg>
+![Subheader](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=200&color=1E90FF&center=true&vCenter=true&width=900&lines=+P+R+A+N+A+V++++C+H+A+U+D+H+A+R+I+&background=00000000)
 
 </div>
 
