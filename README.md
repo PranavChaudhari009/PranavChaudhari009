@@ -80,6 +80,16 @@ pranav = {
 
 ---
 
+## 🏆 `CERTIFICATIONS.verified`
+
+| 🎖️ Certificate | 🏛️ Issuer |
+|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML_&_CSS-000000?style=flat-square&logo=html5&logoColor=FF4500) HTML & CSS | Certiport |
+| ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41) Python | IBM |
+| ![Python](https://img.shields.io/badge/Data_Analysis_with_Python-000000?style=flat-square&logo=python&logoColor=FFD700) Data Analysis with Python | Cognitive Class |
+| ![AWS](https://img.shields.io/badge/Data_Engineering-000000?style=flat-square&logo=amazonaws&logoColor=FF9900) Data Engineering | Amazon AWS |
+| ![Kaggle](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=kaggle&logoColor=00BFFF) Machine Learning | Kaggle |
+
 ## 📡 `CURRENTLY_LOADING...`
 
 ```bash
