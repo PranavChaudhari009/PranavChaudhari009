@@ -1,14 +1,39 @@
 <!-- Retro Terminal Header -->
 <div align="center">
 
-```
-██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
-██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
-██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
-██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=100&lines=██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗;██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║;██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║;██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝;██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝;╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝" />
+
+<br/>
+
+<!-- Glowing animated name using SVG -->
+<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <animate/>
+  </defs>
+  <text x="50%" y="75" text-anchor="middle"
+    font-family="Courier New, monospace"
+    font-size="72" font-weight="bold"
+    fill="#00FF41" filter="url(#glow)"
+    opacity="1">
+    PRANAV
+    <animate attributeName="opacity"
+      values="1;0.4;1;0.7;1;0.5;1"
+      dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="fill"
+      values="#00FF41;#00CC33;#00FF41;#39FF14;#00FF41"
+      dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
+</div>
 
 ### `> INITIALIZING PROFILE... PRANAV CHAUDHARI_`
 
