@@ -1,9 +1,9 @@
 <!-- Retro Terminal Header -->
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=PRANAV+CHAUDHARI)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=&cente0047FFr=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=PRANAV+CHAUDHARI)
 
-![Subheader](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=200&color=1E90FF&center=true&vCenter=true&width=900&lines=+P+R+A+N+A+V++++C+H+A+U+D+H+A+R+I+&background=00000000)
+
 
 </div>
 
