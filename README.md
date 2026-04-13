@@ -73,8 +73,8 @@ pranav = {
 ```
 [✓] Classification    →  Loan Approval Prediction
 [✓] Regression        →  House Price Estimation
-[✓] NLP               →  Spam & Fake News Detection
-[✓] Clustering        →  Customer Segmentation
+[✓] NLP               →  Spam & Fake News Detection & Sentimental Analysis
+[✓] Clustering        →  Credit card detection
 [✓] Time Series       →  Stock Price Forecasting
 
 ```
