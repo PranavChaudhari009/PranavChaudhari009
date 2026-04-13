@@ -121,7 +121,7 @@ $ pip install knowledge --upgrade
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PranavChaudhari009&theme=terminal&background=000000&ring=00FF471&fire=FF6347&currStreakLabel=00FF41&border=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=PranavChaudhari009&theme=terminal&background=00000ring=00FF471&fire=FF6347&currStreakLabel=00FF41&border=00FF417)
 
 </div>
 
