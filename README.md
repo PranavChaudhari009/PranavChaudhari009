@@ -119,11 +119,9 @@ $ pip install knowledge --upgrade
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavChaudhari009&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=FF6347&border_color=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavChaudhari009&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PranavChaudhari009&theme=terminal&background=000000&ring=00FF41&fire=FF6347&currStreakLabel=00FF41&border=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=PranavChaudhari009&theme=terminal&background=000000&ring=00FF471&fire=FF6347&currStreakLabel=00FF41&border=00FF41)
 
 </div>
 
