@@ -52,12 +52,14 @@ pranav = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00FF41)
 ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=7B68EE)
 ![NLTK](https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=python&logoColor=32CD32)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+
 
 ### Tools & Frameworks
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6347)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00BFFF)
 ---
 
 ## 🚀 `PROJECTS.log`
@@ -73,7 +75,7 @@ pranav = {
 [✓] NLP               →  Spam & Fake News Detection
 [✓] Clustering        →  Customer Segmentation
 [✓] Time Series       →  Stock Price Forecasting
-[✓] Recommender       →  Personalized Product Suggestions
+
 ```
 
 🔗 **[Live Demo](https://predictlab9.streamlit.app/)** | 📁 **[Source Code](https://github.com/PranavChaudhari009/predictlab)**
@@ -134,6 +136,6 @@ $ pip install knowledge --upgrade
 > © PRANAV CHAUDHARI | AIML STUDENT
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PranavChaudhari009&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge)
+
 
 </div>
