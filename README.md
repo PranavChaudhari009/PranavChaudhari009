@@ -134,6 +134,6 @@ $ pip install knowledge --upgrade
 > © PRANAV CHAUDHARI | AIML STUDENT
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=PranavChaudhari009&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=PranavChaudhari009&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge)
 
 </div>
