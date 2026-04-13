@@ -60,6 +60,7 @@ pranav = {
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6347)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00BFFF)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ---
 
 ## 🚀 `PROJECTS.log`
