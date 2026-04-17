@@ -79,7 +79,7 @@ pranav = {
 
 ```
 
-🔗 **[Live Demo](https://predictlab9.streamlit.app/)** | 📁 **[Source Code](https://github.com/PranavChaudhari009/predictlab)**
+🔗 **[Live Demo](https://predictlab9.streamlit.app/)** | 📁 **[Source Code](https://github.com/PranavChaudhari009/Predict-LAB-.git)**
 
 ---
 
