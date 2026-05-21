@@ -10,16 +10,7 @@
 
 ---
 
-## 🕹️ `ABOUT_ME.exe`
 
-```python
-pranav = {
-    "name"      : "Pranav Chaudhari",
-    "degree"    : "B.Tech in AI & ML (2nd Year)",
-    "passion"   : ["Machine Learning", "Data Science", "Intelligent Systems"],
-    "currently" : "Building PredictLab 🧪",
-    "motto"     : "Code. Train. Deploy. Repeat."
-}
 ```
 
 > 🤖 2nd-year B.Tech AIML student | Python, Java & ML enthusiast.
