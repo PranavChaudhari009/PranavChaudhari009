@@ -1,19 +1,13 @@
 <!-- Retro Terminal Header -->
 <div align="center">
 
-
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+AIML+Student+%F0%9F%A4%96;Python+%7C+Java+%7C+ML+Enthusiast;Building+Intelligent+Systems...;Exploring+the+World+of+Data+Science+%F0%9F%94%AC)
 
 </div>
 
 ---
 
-
-```
-
-> 🤖 2nd-year B.Tech AIML student | Python, Java & ML enthusiast.
+> 🤖 2nd-year B.Tech AIML student | Python, Java & ML enthusiast.  
 > Currently building intelligent systems and exploring the world of data science.
 
 ---
@@ -37,13 +31,12 @@
 ![NLTK](https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=python&logoColor=32CD32)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
-
 ### Tools & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6347)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00BFFF)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
 ---
 
 ## 🚀 `PROJECTS.log`
@@ -59,7 +52,6 @@
 [✓] NLP               →  Spam & Fake News Detection & Sentimental Analysis
 [✓] Clustering        →  Credit card detection
 [✓] Time Series       →  Stock Price Forecasting
-
 ```
 
 🔗 **[Live Demo](https://predictlab9.streamlit.app/)** | 📁 **[Source Code](https://github.com/PranavChaudhari009/Predict-LAB-.git)**
@@ -75,6 +67,8 @@
 | ![Python](https://img.shields.io/badge/Data_Analysis_with_Python-000000?style=flat-square&logo=python&logoColor=FFD700) Data Analysis with Python | Cognitive Class |
 | ![AWS](https://img.shields.io/badge/Data_Engineering-000000?style=flat-square&logo=amazonaws&logoColor=FF9900) Data Engineering | Amazon AWS |
 | ![Kaggle](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=kaggle&logoColor=00BFFF) Machine Learning | Kaggle |
+
+---
 
 ## 📡 `CURRENTLY_LOADING...`
 
@@ -105,9 +99,7 @@ $ pip install knowledge --upgrade
 
 <div align="center">
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PranavChaudhari009&theme=terminal&background=00000ring=00FF471&fire=FF6347&currStreakLabel=00FF41&border=00FF417)
+![GitHub Streak](https://streak-stats.demolab.com?user=PranavChaudhari009&theme=terminal&background=000000&ring=00FF41&fire=FF6347&currStreakLabel=00FF41&border=00FF41)
 
 </div>
 
@@ -119,7 +111,5 @@ $ pip install knowledge --upgrade
 > THANKS FOR VISITING... COME BACK SOON_
 > © PRANAV CHAUDHARI | AIML STUDENT
 ```
-
-
 
 </div>
