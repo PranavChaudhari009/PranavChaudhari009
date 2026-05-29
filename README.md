@@ -92,18 +92,7 @@
 
 ---
 
-## 📡 `CURRENTLY_LOADING...`
 
-```bash
-$ pip install knowledge --upgrade
-
-> Deep Learning & Neural Networks  ████████░░░░  60%
-> Advanced NLP Techniques          ██████░░░░░░  50%
-> Model Deployment & MLOps         ████░░░░░░░░  35%
-> Data Visualization (Advanced)    ███████░░░░░  55%
-```
-
----
 
 ## 🌐 `SOCIALS.config`
 
