@@ -1,13 +1,13 @@
 <!-- Retro Terminal Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+AIML+Student+%F0%9F%A4%96;Python+%7C+Java+%7C+ML+Enthusiast;Building+Intelligent+Systems...;Exploring+the+World+of+Data+Science+%F0%9F%94%AC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+AIML+Student+%F0%9F%A4%96;Python+%7C+C+++%7C+ML+Enthusiast;Building+Intelligent+Systems...;Exploring+the+World+of+AI+%F0%9F%94%AC)
 
 </div>
 
 ---
 
-> 🤖 2nd-year B.Tech AIML student | Python, Java & ML enthusiast.  
+> 🤖 3rd-year B.Tech AIML student | Python, Java & ML enthusiast.  
 > Currently building intelligent systems and exploring the world of data science.
 
 ---
