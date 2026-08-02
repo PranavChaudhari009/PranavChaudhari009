@@ -61,39 +61,6 @@
 
 ---
 
-## 🚀 `PROJECTS.log`
-
-### 🧪 PredictLab — Interactive ML Platform
-> Multi-module ML platform with 6 real-world use cases
-
-![Streamlit](https://img.shields.io/badge/Live-predictlab9.streamlit.app-00FF41?style=flat-square&logo=streamlit)
-
-```
-[✓] Classification    →  Loan Approval Prediction
-[✓] Regression        →  House Price Estimation
-[✓] NLP               →  Spam & Fake News Detection & Sentimental Analysis
-[✓] Clustering        →  Credit card detection
-[✓] Time Series       →  Stock Price Forecasting
-```
-
-🔗 **[Live Demo](https://predictlab9.streamlit.app/)** | 📁 **[Source Code](https://github.com/PranavChaudhari009/Predict-LAB-.git)**
-
----
-
-## 🏆 `CERTIFICATIONS.verified`
-
-| 🎖️ Certificate | 🏛️ Issuer |
-|---|---|
-| ![HTML5](https://img.shields.io/badge/HTML_&_CSS-000000?style=flat-square&logo=html5&logoColor=FF4500) HTML & CSS | Certiport |
-| ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41) Python | IBM |
-| ![Python](https://img.shields.io/badge/Data_Analysis_with_Python-000000?style=flat-square&logo=python&logoColor=FFD700) Data Analysis with Python | Cognitive Class |
-| ![AWS](https://img.shields.io/badge/Data_Engineering-000000?style=flat-square&logo=amazonaws&logoColor=FF9900) Data Engineering | Amazon AWS |
-| ![Kaggle](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=kaggle&logoColor=00BFFF) Machine Learning | Kaggle |
-
----
-
-
-
 ## 🌐 `SOCIALS.config`
 
 <div align="left">
