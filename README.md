@@ -11,7 +11,7 @@
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<!-- <div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────╮
@@ -28,7 +28,7 @@
 ╰──────────────────────────────────────────────────────╯
 ```
 
-</div>
+</div> -->
 
 ### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB)
