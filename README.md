@@ -99,8 +99,8 @@
 <div align="center">
 
 ```text
-Thanks for visiting. Come back soon.
-© PRANAV CHAUDHARI | AIML STUDENT
+Thanks for visiting.
+
 ```
 
 </div>
