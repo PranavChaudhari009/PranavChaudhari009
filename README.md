@@ -4,10 +4,7 @@
 
 </div>
 
-> 🤖 3rd-year B.Tech AIML student | Python, Java & ML enthusiast.
-> Currently building intelligent systems and exploring the world of data science.
 
----
 
 ## ⚙️ Tech Stack
 
